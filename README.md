@@ -1,6 +1,10 @@
 # Unsure
-## A simple app to efficiently account for multiple independent sources of uncertainty in complex predictive models
-## Unsure approximates the user's model with a Cobb-Douglas function to rapidly estimate results with any combination of input values
+
+A simple app to efficiently account for multiple independent sources of uncertainty in complex predictive models
+
+---
+
+Unsure approximates the user's model with a Cobb-Douglas function to rapidly estimate results with any combination of input values. It requires that the user already has a working model and has run a standard sensitivity analysis.
 
 # Inputs
 
